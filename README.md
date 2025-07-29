@@ -10,7 +10,7 @@
 - 🍴 [wp-my-receptveka](https://github.com/sshell72dev/wp-my-receptveka) -  WordPress: перенос рецептов из темы Cook It в новую тему Astra Pro интегрирован - wpshop
 - 💎 [wp-my-lindina](https://github.com/sshell72dev/wp-my-lindina)
 - 🏋🏻 [wp-theme-piramida](https://github.com/sshell72dev/wp-theme-piramida)
-- 🎰 [ganesha-my-site] (https://github.com/sshell72dev/ganesha-my-site)
+- 🎰 [ganesha-my-site](https://github.com/sshell72dev/ganesha-my-site)
 
 ## 🔌 Плагины
 
