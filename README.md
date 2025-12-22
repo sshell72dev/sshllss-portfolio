@@ -7,7 +7,7 @@
 
 ## 🚀 О портфолио
 
-Это портфолио содержит описание всех **15 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
+Это портфолио содержит описание всех **16 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
 
 ---
 
@@ -16,8 +16,8 @@
 - **Опыт работы:** 10+ лет
 - **Тем WordPress:** 11+
 - **Плагинов и интеграций:** 2+
-- **Других проектов:** 2+
-- **Всего репозиториев:** 15
+- **Других проектов:** 3+
+- **Всего репозиториев:** 16
 - **Завершенных проектов:** 50+
 
 ---
@@ -53,6 +53,7 @@
 |--------|----------|------------|--------|
 | **rsg** | HTML проект | HTML, CSS | [🔗 Репозиторий](https://github.com/sshell72dev/rsg) |
 | **tilimed** | PHP проект (медицинская тематика) | PHP | [🔗 Репозиторий](https://github.com/sshell72dev/tilimed) |
+| **ai-content-detector** | Определение AI-генерированного контента | Python, FastAPI, React, PyTorch | [📄 Описание](projects/ai-content-detector.md) |
 
 ---
 
@@ -75,6 +76,9 @@
 - **cURL** (работа с API)
 - **Парсинг данных**
 - **Обход защиты** (Cloudflare и др.)
+- **Python / FastAPI** (REST API разработка)
+- **React** (современный фронтенд)
+- **Machine Learning** (PyTorch, детекция контента)
 
 ---
 
@@ -111,6 +115,12 @@
    - Сохранение структуры данных
    - Интеграция с wpshop
 
+4. **ai-content-detector**
+   - Гибридный метод детекции AI-контента
+   - Анализ видео через frame extraction
+   - ML модели на базе PyTorch
+   - RESTful API с FastAPI
+
 ---
 
 ## 📁 Структура портфолио
@@ -130,9 +140,11 @@ sshllss-portfolio/
 │   ├── wordpress-dev-portfolio.md
 │   ├── wordpress-gino-project.md
 │   └── wp-my-samoanaliz.md
-└── plugins/                     ← Описания плагинов
-    ├── wp-my-kimovil.md
-    └── wp-my-GoodStream.md
+├── plugins/                     ← Описания плагинов
+│   ├── wp-my-kimovil.md
+│   └── wp-my-GoodStream.md
+└── projects/                    ← Описания других проектов
+    └── ai-content-detector.md
 ```
 
 ---
@@ -154,5 +166,5 @@ sshllss-portfolio/
 ---
 
 *Последнее обновление: Январь 2025*  
-*Всего проектов: 15*
+*Всего проектов: 16*
 
