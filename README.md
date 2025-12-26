@@ -7,7 +7,7 @@
 
 ## 🚀 О портфолио
 
-Это портфолио содержит описание всех **16 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
+Это портфолио содержит описание всех **17 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
 
 ---
 
@@ -16,8 +16,8 @@
 - **Опыт работы:** 10+ лет
 - **Тем WordPress:** 11+
 - **Плагинов и интеграций:** 2+
-- **Других проектов:** 3+
-- **Всего репозиториев:** 16
+- **Других проектов:** 4+
+- **Всего репозиториев:** 17
 - **Завершенных проектов:** 50+
 
 ---
@@ -54,6 +54,7 @@
 | **rsg** | HTML проект | HTML, CSS | [🔗 Репозиторий](https://github.com/sshell72dev/rsg) |
 | **tilimed** | PHP проект (медицинская тематика) | PHP | [🔗 Репозиторий](https://github.com/sshell72dev/tilimed) |
 | **ai-content-detector** | Определение AI-генерированного контента | Python, FastAPI, React, PyTorch | [📄 Описание](projects/ai-content-detector.md) |
+| **memorize** | Мобильное приложение для заучивания текстов | Kotlin, Swift, Jetpack Compose, SwiftUI, Room, SQLite, AI API | [📄 Описание](projects/memorize.md) |
 
 ---
 
@@ -79,6 +80,8 @@
 - **Python / FastAPI** (REST API разработка)
 - **React** (современный фронтенд)
 - **Machine Learning** (PyTorch, детекция контента)
+- **Мобильная разработка** (Kotlin, Swift, Jetpack Compose, SwiftUI)
+- **Голосовые технологии** (TTS, Speech Recognition)
 
 ---
 
@@ -92,6 +95,8 @@
 - ✅ Миграция данных между системами
 - ✅ Работа с WooCommerce
 - ✅ Решение сложных технических задач
+- ✅ Мобильная разработка (Android, iOS)
+- ✅ Голосовые технологии и AI интеграция
 
 ---
 
@@ -121,6 +126,12 @@
    - ML модели на базе PyTorch
    - RESTful API с FastAPI
 
+5. **memorize**
+   - Кросс-платформенная разработка (Android, iOS)
+   - Интеграция AI для обработки текста
+   - Голосовые технологии (TTS, Speech Recognition)
+   - Двухэтапная система обучения с кумулятивным повтором
+
 ---
 
 ## 📁 Структура портфолио
@@ -144,7 +155,8 @@ sshllss-portfolio/
 │   ├── wp-my-kimovil.md
 │   └── wp-my-GoodStream.md
 └── projects/                    ← Описания других проектов
-    └── ai-content-detector.md
+    ├── ai-content-detector.md
+    └── memorize.md
 ```
 
 ---
@@ -166,5 +178,5 @@ sshllss-portfolio/
 ---
 
 *Последнее обновление: Январь 2025*  
-*Всего проектов: 16*
+*Всего проектов: 17*
 
