@@ -7,7 +7,7 @@
 
 ## 🚀 О портфолио
 
-Это портфолио содержит описание всех **17 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
+Это портфолио содержит описание всех **18 проектов** из репозитория [sshell72dev](https://github.com/sshell72dev).
 
 ---
 
@@ -16,8 +16,8 @@
 - **Опыт работы:** 10+ лет
 - **Тем WordPress:** 11+
 - **Плагинов и интеграций:** 2+
-- **Других проектов:** 4+
-- **Всего репозиториев:** 17
+- **Других проектов:** 5+
+- **Всего репозиториев:** 18
 - **Завершенных проектов:** 50+
 
 ---
@@ -55,6 +55,7 @@
 | **tilimed** | PHP проект (медицинская тематика) | PHP | [🔗 Репозиторий](https://github.com/sshell72dev/tilimed) |
 | **ai-content-detector** | Определение AI-генерированного контента | Python, FastAPI, React, PyTorch | [📄 Описание](projects/ai-content-detector.md) |
 | **memorize** | Мобильное приложение для заучивания текстов | Kotlin, Swift, Jetpack Compose, SwiftUI, Room, SQLite, AI API | [📄 Описание](projects/memorize.md) |
+| **situation** | Telegram-бот для ежедневной рефлексии и проработки ситуаций | Python, Telegram Bot API, SQLite, OpenAI API | [📄 Описание](projects/situation.md) |
 
 ---
 
@@ -132,6 +133,12 @@
    - Голосовые технологии (TTS, Speech Recognition)
    - Двухэтапная система обучения с кумулятивным повтором
 
+6. **situation**
+   - Telegram-бот с режимами polling и webhook
+   - Пошаговая проработка ситуаций с AI-вопросами
+   - SQLite-хранилище с кэшем AI-ответов и лимитами
+   - Разделение публичного кода и приватных промтов
+
 ---
 
 ## 📁 Структура портфолио
@@ -156,7 +163,8 @@ sshllss-portfolio/
 │   └── wp-my-GoodStream.md
 └── projects/                    ← Описания других проектов
     ├── ai-content-detector.md
-    └── memorize.md
+    ├── memorize.md
+    └── situation.md
 ```
 
 ---
@@ -177,6 +185,6 @@ sshllss-portfolio/
 
 ---
 
-*Последнее обновление: Январь 2025*  
-*Всего проектов: 17*
+*Последнее обновление: Март 2026*  
+*Всего проектов: 18*
 
